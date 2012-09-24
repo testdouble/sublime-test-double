@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.2",
+  "packages": [
+  {
+    "name": "Sublime Test Double",
+    "description": "Sublime snippets used by the team at Test Double",
+    "author": "searls",
+    "homepage": "https://github.com/testdouble/test-double-sublime",
+    "last_modified": "2012-09-24 14:41:31",
+    "platforms": {
+      "*": [
+      {
+        "version": "0.0.1",
+        "url": "https://nodeload.github.com/testdouble/test-double-sublime/zipball/0.0.1"
+      }]
+    }
+  }
+  ]
+}
